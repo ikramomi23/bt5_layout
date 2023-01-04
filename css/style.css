@@ -1,4 +1,4 @@
-.header, .hero, .body, .bar{
+.header, .hero, .body, .bar, .footer{
   background-color: aqua;
   margin-bottom: 10px;
 }
